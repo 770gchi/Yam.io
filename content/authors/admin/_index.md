@@ -10,7 +10,7 @@ first_name: Zeon Yam
 last_name: Zhang
 
 # Status emoji
-status: Studying
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
