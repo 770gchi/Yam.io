@@ -3,7 +3,7 @@
 title: 张俊鑫
 
 # Name pronunciation (optional)
-name_pronunciation: Zeon Yam ZHANG
+name_pronunciation: ZHANG Zeon Yam 
 
 # Full name (for SEO)
 first_name: Zeon Yam
