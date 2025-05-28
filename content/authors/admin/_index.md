@@ -57,7 +57,7 @@ education:
   - area: Information Management and Information Systems
     institution: Sun Yat-sen University
     date_start: 2024-09-01
-    date_end: 2028-06-31
+    date_end: 
     summary: |
       Currently ongoing. Kaggle silver medal.
       GPA: 3.7/5.0
